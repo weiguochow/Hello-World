@@ -20,3 +20,6 @@ Human Pose Estimation categories:
 2. Top-down approach
 **先检测出人，然后运用single person human pose estimation
 **该方法的优点是，思路直观，易于理解，容易被大多数人接受
+
+
+The goal of this week is to scan all the paper on the awesome website.
