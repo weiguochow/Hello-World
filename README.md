@@ -23,3 +23,7 @@ Human Pose Estimation categories:
 
 
 The goal of this week is to scan all the paper on the awesome website.
+
+Modifiled the Preview network to study the usage of pytorch
+
+1. To observer the loss decrease using the simple network such as lenet and so on
