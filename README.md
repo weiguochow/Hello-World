@@ -51,3 +51,12 @@ JSAuC(50mm): 0.584535696974
 JSAuC(60mm): 0.646937538952
 JSAuC(70mm): 0.694451190559
 JSAuC(80mm): 0.731339913268
+
+笔记本电脑选购推荐：
+1. Macbook, Macbook Air 2018 (if the display is retina)， Macbook Pro 13'
+
+2. Thinkpad X1 Carbon 2018
+
+3. Microsoft Surface Book 2
+
+4. Dell Xps13
